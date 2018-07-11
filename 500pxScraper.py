@@ -1,4 +1,4 @@
-#! python 3
+#!/usr/bin/python3
 # download searched photos on 500px
 
 import time, requests, os
